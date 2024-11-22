@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.personal_info_1 {
+  text-align: initial;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.personal_info_2 {
+  text-align: initial;
+  margin: 0;
+}
+
+#Exp {
+  font-weight: bolder;
+}
+
+#Current_Designation {
+  font-weight: bolder;
+  color: green;
+  margin: 0;
+}
+
+.company {
+  margin: 0;
+}
+
+#Roles {
+  font-weight: bolder;
+}
+
+li {
+  margin: 10px;
+}
+
+#Tech {
+  font-weight: bolder;
+}
+
+#Goal {
+  font-weight: bolder;
+}
+
+#Certification {
+  font-weight: bolder;
+}
+
+#Educational_Qualification {
+  font-weight: bolder;
+}
